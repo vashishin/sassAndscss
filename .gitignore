@@ -1,0 +1,6 @@
+# комментарий — эта строка игнорируется
+# игнорировать все файлы в каталоге node_modules и .idea/
+node_modules/
+.idea/
+app/img/
+dist/img/
